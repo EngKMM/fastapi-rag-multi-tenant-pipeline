@@ -1,0 +1,12 @@
+My name is Kareem.
+I'm currently learning about cloud computing, AI, and DevOps.
+
+My career goal is to become a AI Engineer.
+I'm especially interested in AI security.
+
+I have experience with Python, Docker, bash.
+I'm currently building projects to grow my hands-on skills.
+
+For fun, I enjoy Reading, videogames.
+A fun fact about me is I once biked a marathon.
+
